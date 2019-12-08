@@ -1,0 +1,13 @@
+use studentski_centar;
+insert into dom values(101, '011/3955-887', 290, 855, 0);
+insert into dom values(102, '011/2079-724', 690, 1170, 0);
+insert into dom values(103, '011/3400-452', 195, 526, 0);
+insert into dom values(104, '011/3530-200', 123, 424, 0);
+insert into dom values(105, '011/3954-779', 79, 162, 0);
+insert into dom values(106, '011/2076-003', 443, 1020, 0);
+insert into dom values(107, '011/3812-300', 187, 367, 0);
+insert into dom values(108, '011-310-2000', 1977, 4406, 0);
+insert into dom values(109, '011/3400-384', 378, 759, 0);
+insert into dom values(110, '011/3204-057', 45, 117, 0);
+insert into dom values(111, '011/3204-055', 67, 178, 0);
+insert into dom values(112, '011/3713-400', 46, 155, 0);
